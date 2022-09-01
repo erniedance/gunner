@@ -6,4 +6,10 @@ public class Hat {
 
     // Addidas
 
+    // nice hat
+
+    // looks great
+
+    // looking outstanding
+
 }
