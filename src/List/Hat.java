@@ -12,4 +12,6 @@ public class Hat {
 
     // looking outstanding
     //  ok kid!
+
+    // woo hoo!
 }
